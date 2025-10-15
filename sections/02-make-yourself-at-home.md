@@ -102,7 +102,6 @@ The script can be content can be found here: [better-git-branch.sh](https://gist
 
 You can play with it - create multiple branches and commits to them and then run `git bb` to see the branches ordered by the last commit date.
 
-```bash
 ### Other configurations
 
 This disables the pager for the git log, git branch, git diff, and git show commands, ensuring output is shown directly in the terminal without paging. It is useful to release your terminal without having to press `q` to exit the pager.
