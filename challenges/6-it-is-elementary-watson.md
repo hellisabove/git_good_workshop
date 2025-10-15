@@ -4,7 +4,7 @@ Sometimes finding the commit that introduced a bug—or a hidden feature—can f
 
 Clone the following repository:
 ```bash
-git clone  <todo>
+git clone  https://github.com/andreia-oca/ggw-crime-scene
 ```
 
 Explore the commits: The repository has multiple commits that progressively modify files. Your goal is to find the commit that added a file containing the CTF flag of the format `git_good{<flag>}`.

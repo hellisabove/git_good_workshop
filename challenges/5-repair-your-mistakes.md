@@ -4,7 +4,7 @@ Not all commit histories are clean — sometimes, messy sequences of “fix typo
 
 Clone the following repository:
 ```bash
-git clone  <todo>
+git clone  https://github.com/andreia-oca/ggw-cluttered
 ```
 
 Check the older commits - it's madness there - somebody should clean that up.

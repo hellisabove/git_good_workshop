@@ -4,7 +4,7 @@ Sometimes useful work is scattered across different branches, and instead of mer
 
 Clone the following repository:
 ```bash
-git clone  <todo>
+git clone  https://github.com/andreia-oca/ggw-lost-cherries.git
 ```
 
 Explore the branches `living_room`, `basement`, `terrace` and the commits ahead of main.
